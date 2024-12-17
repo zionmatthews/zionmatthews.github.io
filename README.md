@@ -1,99 +1,57 @@
 ---
-title: "About"
+title: "Projects"
 permalink: "/about/"
 layout: page
 ---
 
-## Installation
+## Tophet
 
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+<img src = "GameImage.jpg" alt="GameImage" width="333"/>
 
-## Features
+Tophet is a short survival first-person horror game.   In order to escape the nightmare, you must find the pentagram and locate all the cursed items. 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ This game is entirely coded using blueprints such as:
 
- - supports dark mode on macOS Mojave
- - optional sidebar
- - MathJax support
- - no external ressources
- - included archive page
- - supports pagination
- - feed generation
- - responsive
- - syntax highlighting
- - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
+ 
+Ai Movement,
+Game instance,
+Characters,
+Game Actors / Items,
+Level seqeunces,
+Save points,
+UI,
+Mobile UI,
+Animations,
+Video Overlays,
 
-## Based on
 
-- [Hyde](https://github.com/poole/hyde)
-- [Minima](https://github.com/jekyll/minima)
-- [Lagrange](https://github.com/LeNPaul/Lagrange)
-- [Font Awesome](http://fontawesome.io/)
-- [KaTeX](https://katex.org/)
-- [Pygments](https://github.com/richleland/pygments-css)
 
-## Installation (jekyll-remote-theme method)
+<img src = "ScreenShot.jpg" alt="ScreenShot" width="250"/>
+<img src = "Screenshot_2.jpg" alt="Screenshot_2" width="250"/>
+<img src = "Screenshot3.jpg" alt="Screenshot3" width="250"/>
 
-You can use this theme with the `jekyll-remote-theme` plugin. Just create an empty repo, copy over the `index.html` file and add this to your `_config.yml`:
+* [Itch.io](https://zinidev.itch.io/tophet)
 
-```yaml
-remote_theme: niklasbuschmann/contrast@v2.11
+## All Patched Up
 
-plugins:
-  - jekyll-remote-theme
-```
+<img src= "FaqL9q.png" alt="FaqL9q" width="333"/>
 
-Note: to enable icons you also need to copy over the `_data` folder.
+As part of major preduction. All Patched Up is an adventure platforming  game about a patchwork doll, Tack, leaving their dismal home behind.
+----------------------------------------------------------------------------------------------------------------------------------------------
+Coded only using blueprints
 
-## Config
+* [Itch.io](https://teamfire2021.itch.io/allpatchedup)
 
-Your `_config.yml` could for example look like this:
+## Tower Defense
 
-```yaml
-title: "Blog Title"
-author: "Blog Author"
-description: "My personal blog about ... something"
-permalink: /:title/
-lang: "en"
-excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
+<img src= "blfybK.png" alt="blfybK" width="333"/>
 
-# Layout
+As part of production. Tower Defense is a survival game to see how long you can last against a wave of endless enemys.
+-----------------------------------------------------------------------------------------------------------------------
+ Coded in C#
 
-show_excerpts: true        # show article excerpts on the home page
-show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
+ 
+ Programmed the player, player navmesh, and spider animator 
 
-# Menu
-
-navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
-
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
-
-comments:
-#  disqus_shortname: ""    # see https://disqus.com/
-#  isso_domain: ""         # see https://posativ.org/isso/
-
-plugins:
- - jekyll-feed
-
-```
-
-## MathJax
-
-Contrast comes preinstalled with a leightweight alternative to MathJax called [KaTeX](https://katex.org/). To display equations in a post simply set `mathjax: true` in the article's front matter.
-
-## License
-
-[public domain](http://unlicense.org/)
-
-## Screenshots
-
-![screenshot](https://user-images.githubusercontent.com/4943215/109431850-cd711780-7a08-11eb-8601-2763f2ee6bb4.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/109431832-b6cac080-7a08-11eb-9c5e-a058680c23a1.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/73125194-5f0b8b80-3fa4-11ea-805c-8387187503ad.png)
+* [Itch.io](https://gutstowerdefence.itch.io/tower-defence)
+* [Repository](https://github.com/zionmatthews/TowerDefense)
