@@ -6,7 +6,7 @@ layout: page
 
 ## Tophet
 
-<img src = "GameImage.jpg" alt="GameImage" width="333"/>
+<img src = "GameImage.jpg" alt="GameImage.jpg" width="333"/>
 
 Tophet is a short survival first-person horror game.   In order to escape the nightmare, you must find the pentagram and locate all the cursed items. 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -26,15 +26,15 @@ Video Overlays,
 
 
 
-<img src = "ScreenShot.jpg" alt="ScreenShot" width="250"/>
-<img src = "Screenshot_2.jpg" alt="Screenshot_2" width="250"/>
-<img src = "Screenshot3.jpg" alt="Screenshot3" width="250"/>
+<img src = "ScreenShot.jpg" alt="ScreenShot.jpg" width="250"/>
+<img src = "Screenshot_2.jpg" alt="Screenshot_2.jpg" width="250"/>
+<img src = "Screenshot3.jpg" alt="Screenshot3.jpg" width="250"/>
 
 * [Itch.io](https://zinidev.itch.io/tophet)
 
 ## All Patched Up
 
-<img src= "FaqL9q.png" alt="FaqL9q" width="333"/>
+<img src= "FaqL9q.png" alt="FaqL9q.png" width="333"/>
 
 As part of major preduction. All Patched Up is an adventure platforming  game about a patchwork doll, Tack, leaving their dismal home behind.
 ----------------------------------------------------------------------------------------------------------------------------------------------
@@ -44,7 +44,7 @@ Coded only using blueprints
 
 ## Tower Defense
 
-<img src= "blfybK.png" alt="blfybK" width="333"/>
+<img src= "blfybK.png" alt="blfybK.png" width="333"/>
 
 As part of production. Tower Defense is a survival game to see how long you can last against a wave of endless enemys.
 -----------------------------------------------------------------------------------------------------------------------
