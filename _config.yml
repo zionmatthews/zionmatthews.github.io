@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Resume", file: "/Resume_GameProgrammer.pdf"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "zion.h.matthews@gmail.com"}
+  - {title: Mail, icon: envelope, url: "mailto:zion.h.matthews@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/zionmatthews"}
   - {title: Youtube, icon: rss, url: "https://www.youtube.com/@ZiniDev"}
 
