@@ -26,15 +26,15 @@ Video Overlays,
 
 
 
-<img src = "ScreenShot.jpg" alt="ScreenShot" width="250"/>
-<img src = "Screenshot_2.jpg" alt="Screenshot_2" width="250"/>
-<img src = "Screenshot3.jpg" alt="Screenshot3" width="250"/>
+![screenshot](https://raw.githubusercontent.com/zionmatthews/zionmatthews.github.io/refs/heads/master/GameImage.jpg)
+![screenshot](https://raw.githubusercontent.com/zionmatthews/zionmatthews.github.io/refs/heads/master/GameImage.jpg)
+![screenshot](https://raw.githubusercontent.com/zionmatthews/zionmatthews.github.io/refs/heads/master/GameImage.jpg)
 
 * [Itch.io](https://zinidev.itch.io/tophet)
 
 ## All Patched Up
 
-<img src= "FaqL9q.png" alt="FaqL9q" width="333"/>
+![screenshot](https://raw.githubusercontent.com/zionmatthews/zionmatthews.github.io/refs/heads/master/GameImage.jpg)
 
 As part of major preduction. All Patched Up is an adventure platforming  game about a patchwork doll, Tack, leaving their dismal home behind.
 ----------------------------------------------------------------------------------------------------------------------------------------------
@@ -44,7 +44,7 @@ Coded only using blueprints
 
 ## Tower Defense
 
-<img src= "blfybK.png" alt="blfybK" width="333"/>
+![screenshot](https://raw.githubusercontent.com/zionmatthews/zionmatthews.github.io/refs/heads/master/GameImage.jpg)
 
 As part of production. Tower Defense is a survival game to see how long you can last against a wave of endless enemys.
 -----------------------------------------------------------------------------------------------------------------------
