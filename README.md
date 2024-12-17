@@ -10,7 +10,7 @@ layout: page
 
 Tophet is a short survival first-person horror game.   In order to escape the nightmare, you must find the pentagram and locate all the cursed items. 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
- This game is entirely coded using blueprints such as:
+ Unreal Engine 5 - This game is entirely coded using blueprints such as:
 
  
 Ai Movement,
@@ -38,7 +38,7 @@ Video Overlays,
 
 As part of major preduction. All Patched Up is an adventure platforming  game about a patchwork doll, Tack, leaving their dismal home behind.
 ----------------------------------------------------------------------------------------------------------------------------------------------
-Coded only using blueprints
+Unreal Engine 4 - Coded only using blueprints
 
 * [Itch.io](https://teamfire2021.itch.io/allpatchedup)
 
@@ -48,7 +48,7 @@ Coded only using blueprints
 
 As part of production. Tower Defense is a survival game to see how long you can last against a wave of endless enemys.
 -----------------------------------------------------------------------------------------------------------------------
- Coded in C#
+ Unity - Coded in C#
 
  
  Programmed the player, player navmesh, and spider animator 
