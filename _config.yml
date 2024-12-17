@@ -22,7 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "zion.h.matthews@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/zionmatthews"}
-  - {title: Youtube, icon: fa-youtube, url: "https://www.youtube.com/@ZiniDev"}
+  - {title: Youtube, icon: rss, url: "https://www.youtube.com/@ZiniDev"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
