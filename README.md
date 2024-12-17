@@ -6,7 +6,7 @@ layout: page
 
 ## Tophet
 
-![screenshot](https://user-images.githubusercontent.com/4943215/109431850-cd711780-7a08-11eb-8601-2763f2ee6bb4.png)
+![screenshot](https://raw.githubusercontent.com/zionmatthews/zionmatthews.github.io/refs/heads/master/GameImage.jpg)
 
 Tophet is a short survival first-person horror game.   In order to escape the nightmare, you must find the pentagram and locate all the cursed items. 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
