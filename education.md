@@ -21,7 +21,7 @@ Graduated with a Advanced Dimploma, and an Associate's Degree in Professional Ga
 
 ## Soft Skills
 
-*Problem Solving
-*Great Communication
-*Teamwork
-*Adaptive
+* Problem Solving
+* Great Communication
+* Teamwork
+* Adaptive
