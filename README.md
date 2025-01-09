@@ -30,6 +30,7 @@ Video Overlays,
 ![screenshot](https://raw.githubusercontent.com/zionmatthews/zionmatthews.github.io/refs/heads/master/Screenshot_2.jpg)
 ![screenshot](https://raw.githubusercontent.com/zionmatthews/zionmatthews.github.io/refs/heads/master/Screenshot3.jpg)
 ![screenshot](https://github.com/zionmatthews/zionmatthews.github.io/blob/master/Tophetgif1.gif?raw=true)
+![screenshot](https://github.com/zionmatthews/zionmatthews.github.io/blob/master/Tophetgif2.gif?raw=true)
 
 * [Itch.io](https://zinidev.itch.io/tophet)
 
